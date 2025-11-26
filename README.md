@@ -1,3 +1,3 @@
 # SayStage
 
-Live site: https://amjadodeh.github.io/say-stage/
+Live site: https://amjadodeh.github.io/saystage/
